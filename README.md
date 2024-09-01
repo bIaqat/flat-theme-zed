@@ -1,5 +1,5 @@
 # Flat
-Minimal, easy on the eyes theme inspired from [flatwhite syntax](https://github.com/biletskyy/flatwhite-syntax) from Atom
+Minimal, easy on the eyes theme inspired by [flatwhite syntax](https://github.com/biletskyy/flatwhite-syntax) from Atom
 
 ## Preview
 ### Flat Light

@@ -3,5 +3,5 @@ name = "Flat Theme"
 version = "0.5.0"
 schema_version = 1
 authors = ["blaqat <blaqat.ag@gmail.com>"]
-description = "Minimal, easy on the eyes theme inspired from flatwhite syntax from Atom"
+description = "Minimal, easy on the eyes theme inspired by flatwhite syntax from Atom"
 repository = "https://github.com/biaqat/flat-theme-zed"
