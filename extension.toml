@@ -1,6 +1,6 @@
 id = "flat-theme"
 name = "Flat Theme"
-version = "0.5.0"
+version = "0.5.1"
 schema_version = 1
 authors = ["blaqat <blaqat.ag@gmail.com>"]
 description = "Minimal, easy on the eyes theme inspired by flatwhite syntax from Atom"
